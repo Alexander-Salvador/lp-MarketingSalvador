@@ -137,17 +137,13 @@ Este proyecto está bajo la licencia **MIT**. Para más detalles, consulta el ar
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarnos:
 
-- **Correo electrónico**: info@marketingsalvador.com
-- **Teléfono**: +123 456 7890
-- **Redes sociales**: [Facebook](#) | [Instagram](#) | [LinkedIn](#) | [Twitter](#)
+- **Correo electrónico**: alexander.salvador.dev@gmail.com
 
 ---
 
 ¡Gracias por visitar nuestro repositorio! Esperamos que esta landing page sea útil para presentar los servicios de **Marketing Salvador** y atraer a nuevos clientes. 😊
 
-````
 
----
 
 ### **Instrucciones para Subir a GitHub**
 
@@ -161,4 +157,4 @@ Si tienes alguna pregunta o sugerencia, no dudes en contactarnos:
    git branch -M main
    git remote add origin https://github.com/tu-usuario/marketing-salvador.git
    git push -u origin main
-````
+   ```
