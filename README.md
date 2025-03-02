@@ -1,4 +1,3 @@
-```markdown
 # README - Landing Page: Marketing Salvador
 
 ## **Descripción del Proyecto**
@@ -17,6 +16,7 @@ Esta landing page está diseñada para presentar los servicios de **Marketing Sa
 ## **Estructura del Proyecto**
 
 El proyecto está organizado de la siguiente manera:
+
 ```
 
 marketing-salvador/
@@ -29,7 +29,7 @@ marketing-salvador/
 │ └── icons/ # Íconos para servicios y redes sociales
 └── README.md # Este archivo
 
-````
+```
 
 ---
 
@@ -44,11 +44,12 @@ marketing-salvador/
 ## **Instrucciones de Uso**
 
 ### **1. Clonar el Repositorio**
+
 Para obtener una copia del proyecto en tu máquina local, ejecuta el siguiente comando en tu terminal:
 
 ```bash
 git clone https://github.com/tu-usuario/marketing-salvador.git
-````
+```
 
 ### **2. Abrir el Proyecto**
 

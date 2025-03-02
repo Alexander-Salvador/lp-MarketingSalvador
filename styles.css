@@ -104,6 +104,13 @@ h2 {
 .label-menu,
 .navbar-logo {
   z-index: 1;
+  width: 120px;
+}
+
+.footer__logo {
+  width: 60px;
+  background-color: whitesmoke;
+  border-radius: 50%;
 }
 
 .label-menu {
@@ -279,24 +286,23 @@ h2 {
 # CALL TO ACTION STYLES
 --------------------------------------------------------------*/
 .cta {
-  /* padding: 3rem 1rem; */
+  padding: 3rem 1rem;
   background-color: #f3f3f3;
   border-radius: 10px;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(1, 1fr);
+  align-items: center;
 }
 
 .cta-content {
+  display: flex;
+  flex-direction: column;
+  row-gap: 1rem;
   width: 90%;
-
   margin: 0 auto;
-  /* gap: 1rem; */
 }
 
 .cta-texts {
-  display: grid;
-  gap: 1rem;
-
   & .cta-title {
     font-size: clamp(2rem, 4vw + 1rem, 2.8rem);
     font-weight: 500;
@@ -382,8 +388,8 @@ h2 {
 }
 
 .contact-section {
-  margin-top: 3rem;
-  padding: 2rem 1.5rem;
+  /* margin-top: 3rem; */
+  /* padding: 2rem 1.5rem; */
   display: grid;
   gap: 2rem;
 }
@@ -551,7 +557,7 @@ h2 {
   }
 
   .navbar-logo {
-    width: 70px;
+    width: 130px;
   }
 
   .footer__logo {
@@ -580,6 +586,12 @@ h2 {
 
   /* MEDIA QUERIES - CTA STYLES */
   .cta {
+    padding: 3rem 1rem;
+    background-color: #f3f3f3;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
   }
 
   .cta-content {
